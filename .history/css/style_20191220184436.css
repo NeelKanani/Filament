@@ -4356,7 +4356,7 @@ h1, h2, h3, h4, h5, h6, figure {
   clear: both;
 }
 @media screen and (max-width: 768px) {
-  /* #fh5co-slider, */
+
   #fh5co-about,
   #fh5co-wireframe,
   #fh5co-started,
