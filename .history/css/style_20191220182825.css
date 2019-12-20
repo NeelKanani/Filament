@@ -18,23 +18,18 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   background-image: url(../images/b3.jpg); border-radius: 20px 0px 20px 0px;
   height: 600px;
   width: 100%;
-  background-size: cover;
   background-repeat: no-repeat;
 }
 
 .yup2{
   background-image: url(../images/b2.jpg); border-radius: 0px 20px 0px 20px;
-  height: 600px;
-  width: 100%;
-  background-size: cover;
+  height: 600px;  width: 100%;
   background-repeat: no-repeat;
 }
 
 .yup3{
   background-image: url(../images/b1.jpg); border-radius: 20px 0px 20px 0px;
-  height: 600px;
-  width: 100%;
-  background-size: cover;
+  height: 600px;  width: 100%;
   background-repeat: no-repeat;
 }
 
